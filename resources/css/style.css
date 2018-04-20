@@ -9,15 +9,24 @@ h1 {
   font-size: 50px;
   color: white;
   text-align: center;
+}
 
+a {
+  color: aquamarine;
 }
 
 #downloadexcursion {
-  color: aquamarine;
   font-size: 16px;
 }
 
-#excursion {
+#excursion  {
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+}
+
+#copyright {
+  text-align: right;
   font-family: Verdana;
   color: gray;
   font-size: 21px;
